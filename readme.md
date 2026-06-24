@@ -19,7 +19,7 @@ A responsive Pomodoro Timer built using HTML, CSS, and JavaScript. This applicat
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:**  
+🔗 **Live Website:**  https://hkkohlio7-code.github.io/Pomodoro-timer/
 
 ## 🛠️ Built With
 
